@@ -38,7 +38,7 @@ Explique claramente o que o projeto faz, qual problema ele resolve e por que ele
 Coloque todas as imagens na **mesma pasta** deste arquivo markdown.
 
 <p align="center">
-  <img src="/assets/images/nome-da-pasta-do-projeto/imagem-1.jpg" width="800"><br/>
+  <img src="cover.jpeg" width="800"><br/>
   <i>Legenda curta descrevendo a imagem</i>
 </p>
 
@@ -47,7 +47,7 @@ Coloque todas as imagens na **mesma pasta** deste arquivo markdown.
 Links do YouTube **não são permitidos**. Envie o vídeo como arquivo `.mp4` local, na mesma pasta.
 
 <video controls width="100%">
-  <source src="/nome-do-video.mp4" type="video/mp4">
+  <source src="nome-do-video.mp4" type="video/mp4">
 </video>
 
 ---
