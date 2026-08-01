@@ -1,33 +1,33 @@
 ---
 publishDate: 2026-08-01T00:00:00Z
-title: Título do Seu Projeto
-excerpt: Descrição curta do projeto em 1 a 2 linhas — o que ele faz e para quem serve.
+title: Automated Garden
+excerpt: An automated irrigation system that monitors soil moisture and waters plants automatically.
 image: cover.jpeg
 tags:
-  - Tag1
-  - Tag2
-  - Tag3
+  - IoT
+  - Automation
+  - Sustainability
 ---
 
-> Uma frase curta que resume o projeto (o "tagline").
+> Smart irrigation that takes care of your garden while you don't.
 
 ---
 
 ## Acknowledgements
 
-Agradecimentos à comunidade, colaboradores, mentores ou menção a alguma atualização importante do projeto. (Opcional)
+Thanks to the MYOSA community and mentors for the support during development. (Optional)
 
 ---
 
 ## Overview
 
-Explique claramente o que o projeto faz, qual problema ele resolve e por que ele existe.
+Explain clearly what the project does, what problem it solves, and why it exists.
 
-**Principais funcionalidades:**
-* Funcionalidade 1
-* Funcionalidade 2
-* Funcionalidade 3
-* Funcionalidade 4
+**Key features:**
+* Automatic soil moisture monitoring
+* Automated watering triggered by sensor readings
+* Real-time data display
+* Low power / low cost setup
 
 ---
 
@@ -35,71 +35,71 @@ Explique claramente o que o projeto faz, qual problema ele resolve e por que ele
 
 ### Images
 
-Coloque todas as imagens na **mesma pasta** deste arquivo markdown.
+All images must be placed in the same folder as this markdown file.
 
 <p align="center">
-  <img src="/assets/images/nome-da-pasta-do-projeto/imagem-1.jpg" width="800"><br/>
-  <i>Legenda curta descrevendo a imagem</i>
+  <img src="cover.jpeg" width="800"><br/>
+  <i>Assembled automated garden system</i>
 </p>
 
 ### Videos
 
-Links do YouTube **não são permitidos**. Envie o vídeo como arquivo `.mp4` local, na mesma pasta.
+YouTube links are NOT allowed. Upload your video as a local `.mp4` file, in the same folder.
 
 <video controls width="100%">
-  <source src="/nome-do-video.mp4" type="video/mp4">
+  <source src="demo-automated-garden.mp4" type="video/mp4">
 </video>
 
 ---
 
 ## Features (Detailed)
 
-Explique em detalhes como o projeto funciona, dividido em subseções.
+Explain in detail how the project works, broken into subsections.
 
-### 1. Nome da Funcionalidade
-Explicação da funcionalidade.
+### 1. Moisture Sensing
+Explain the feature.
 
-### 2. Nome da Funcionalidade
-Explicação da funcionalidade.
+### 2. Automatic Watering
+Explain the feature.
 
-### 3. Nome da Funcionalidade
-Explicação da funcionalidade.
+### 3. Data Display
+Explain the feature.
 
 ---
 
 ## Usage Instructions
 
-Explique como outras pessoas podem usar o projeto.
+Explain how others can use this project.
 
-Comandos:
+Commands:
 ```plaintext
-python seu_script.py --opcao valor
+python main.py --mode auto
 ```
 
 Scripts:
 ```python
-# Exemplo de trecho em Python
-def exemplo():
-    print("Hello MYOSA")
+# Example Python snippet
+def read_moisture():
+    print("Reading soil moisture...")
 ```
 
 ---
 
 ## Tech Stack
 
-* **Tecnologia 1**
-* **Tecnologia 2**
-* **Tecnologia 3**
-* **Tecnologia 4**
+* **Arduino / ESP32**
+* **Soil Moisture Sensor**
+* **Water Pump + Relay Module**
+* **Python**
 
 ---
 
 ## Requirements / Installation
 
-Liste todas as dependências:
+List all dependencies clearly:
 
 ```bash
-pip install dependencia1 dependencia2 dependencia3
+pip install pyserial numpy
 ```
 
 ---
@@ -107,21 +107,21 @@ pip install dependencia1 dependencia2 dependencia3
 ## File Structure (Optional)
 
 ```
-/seu-projeto
-  ├─ arquivo1.py
-  ├─ pasta/
-  │   └─ arquivo2.jpg
-  └─ README.md
+/automated-garden
+  ├─ myosa-horta-automatica.md
+  ├─ cover.jpeg
+  ├─ demo-automated-garden.mp4
+  └─ main.py
 ```
 
 ---
 
 ## License (Optional)
 
-Informe a licença do projeto, se houver.
+State your license here if applicable.
 
 ---
 
 ## Contribution Notes (Optional)
 
-Explique como outras pessoas podem contribuir, open issues ou sugerir melhorias.
+Explain how people can contribute, open issues, or submit improvements.
