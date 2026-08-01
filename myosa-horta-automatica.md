@@ -9,6 +9,10 @@ tags:
   - Tag3
 ---
 
+<p align="center">
+  <img src="cover.jpeg" width="800">
+</p>
+
 > Uma frase curta que resume o projeto (o "tagline").
 
 ---
