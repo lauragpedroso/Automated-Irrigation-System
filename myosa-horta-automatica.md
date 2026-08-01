@@ -2,7 +2,7 @@
 publishDate: 2026-08-01T00:00:00Z
 title: Título do Seu Projeto
 excerpt: Descrição curta do projeto em 1 a 2 linhas — o que ele faz e para quem serve.
-image: /assets/images/nome-da-pasta-do-projeto/capa.jpg
+image: cover.jpeg
 tags:
   - Tag1
   - Tag2
