@@ -1,33 +1,33 @@
 ---
 publishDate: 2026-08-01T00:00:00Z
-title: Automated Garden
-excerpt: An automated irrigation system that monitors soil moisture and waters plants automatically.
-image: cover.jpeg
+title: Título do Seu Projeto
+excerpt: Descrição curta do projeto em 1 a 2 linhas — o que ele faz e para quem serve.
+image: /assets/images/nome-da-pasta-do-projeto/capa.jpg
 tags:
-  - IoT
-  - Automation
-  - Sustainability
+  - Tag1
+  - Tag2
+  - Tag3
 ---
 
-> Smart irrigation that takes care of your garden while you don't.
+> Uma frase curta que resume o projeto (o "tagline").
 
 ---
 
 ## Acknowledgements
 
-Thanks to the MYOSA community and mentors for the support during development. (Optional)
+Agradecimentos à comunidade, colaboradores, mentores ou menção a alguma atualização importante do projeto. (Opcional)
 
 ---
 
 ## Overview
 
-Explain clearly what the project does, what problem it solves, and why it exists.
+Explique claramente o que o projeto faz, qual problema ele resolve e por que ele existe.
 
-**Key features:**
-* Automatic soil moisture monitoring
-* Automated watering triggered by sensor readings
-* Real-time data display
-* Low power / low cost setup
+**Principais funcionalidades:**
+* Funcionalidade 1
+* Funcionalidade 2
+* Funcionalidade 3
+* Funcionalidade 4
 
 ---
 
@@ -35,71 +35,71 @@ Explain clearly what the project does, what problem it solves, and why it exists
 
 ### Images
 
-All images must be placed in the same folder as this markdown file.
+Coloque todas as imagens na **mesma pasta** deste arquivo markdown.
 
 <p align="center">
-  <img src="cover.jpeg" width="800"><br/>
-  <i>Assembled automated garden system</i>
+  <img src="/assets/images/nome-da-pasta-do-projeto/imagem-1.jpg" width="800"><br/>
+  <i>Legenda curta descrevendo a imagem</i>
 </p>
 
 ### Videos
 
-YouTube links are NOT allowed. Upload your video as a local `.mp4` file, in the same folder.
+Links do YouTube **não são permitidos**. Envie o vídeo como arquivo `.mp4` local, na mesma pasta.
 
 <video controls width="100%">
-  <source src="demo-automated-garden.mp4" type="video/mp4">
+  <source src="/nome-do-video.mp4" type="video/mp4">
 </video>
 
 ---
 
 ## Features (Detailed)
 
-Explain in detail how the project works, broken into subsections.
+Explique em detalhes como o projeto funciona, dividido em subseções.
 
-### 1. Moisture Sensing
-Explain the feature.
+### 1. Nome da Funcionalidade
+Explicação da funcionalidade.
 
-### 2. Automatic Watering
-Explain the feature.
+### 2. Nome da Funcionalidade
+Explicação da funcionalidade.
 
-### 3. Data Display
-Explain the feature.
+### 3. Nome da Funcionalidade
+Explicação da funcionalidade.
 
 ---
 
 ## Usage Instructions
 
-Explain how others can use this project.
+Explique como outras pessoas podem usar o projeto.
 
-Commands:
+Comandos:
 ```plaintext
-python main.py --mode auto
+python seu_script.py --opcao valor
 ```
 
 Scripts:
 ```python
-# Example Python snippet
-def read_moisture():
-    print("Reading soil moisture...")
+# Exemplo de trecho em Python
+def exemplo():
+    print("Hello MYOSA")
 ```
 
 ---
 
 ## Tech Stack
 
-* **Arduino / ESP32**
-* **Soil Moisture Sensor**
-* **Water Pump + Relay Module**
-* **Python**
+* **Tecnologia 1**
+* **Tecnologia 2**
+* **Tecnologia 3**
+* **Tecnologia 4**
 
 ---
 
 ## Requirements / Installation
 
-List all dependencies clearly:
+Liste todas as dependências:
 
 ```bash
-pip install pyserial numpy
+pip install dependencia1 dependencia2 dependencia3
 ```
 
 ---
@@ -107,21 +107,21 @@ pip install pyserial numpy
 ## File Structure (Optional)
 
 ```
-/automated-garden
-  ├─ myosa-horta-automatica.md
-  ├─ cover.jpeg
-  ├─ demo-automated-garden.mp4
-  └─ main.py
+/seu-projeto
+  ├─ arquivo1.py
+  ├─ pasta/
+  │   └─ arquivo2.jpg
+  └─ README.md
 ```
 
 ---
 
 ## License (Optional)
 
-State your license here if applicable.
+Informe a licença do projeto, se houver.
 
 ---
 
 ## Contribution Notes (Optional)
 
-Explain how people can contribute, open issues, or submit improvements.
+Explique como outras pessoas podem contribuir, abrir issues ou sugerir melhorias.
