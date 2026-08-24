@@ -191,7 +191,7 @@ The specific libraries and installation procedure should be added according to t
 ---
 
 ## File Structure
-
+```
 automated-irrigation/
 ├── libraries/
 │   └── myosa-libraries/
@@ -203,7 +203,7 @@ automated-irrigation/
 ├── irrigation-demo.mp4
 ├── automated-irrigation.md
 └── LICENSE
-
+```
 ## License 
 
 MIT License.
