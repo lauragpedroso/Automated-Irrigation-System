@@ -75,9 +75,7 @@ The following images show the development, assembly, and operation of the automa
 
 The project demonstration video is provided as a local MP4 file, following the MYOSA submission requirements.
 
-<video controls width="100%">
-  <source src="https://github.com/user-attachments/assets/5b8ea8f3-b0c4-4a1d-9f9d-8bfeb1d502ad?raw=true" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/5b8ea8f3-b0c4-4a1d-9f9d-8bfeb1d502ad?
 
 ---
 
