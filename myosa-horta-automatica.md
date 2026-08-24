@@ -53,13 +53,13 @@ The following images show the development, assembly, and operation of the automa
 
 <!-- IMAGE 2: HARDWARE -->
 <p align="center">
-  <img src="Images/system-acionamento.jpeg" width="800"><br/>
-  <i>Hardware components and electronic system used in the project.</i>
+  <img src="Images/System-acionamento.jpeg" width="800"><br/>
+  <i>Solenoid Valve Control Systemt.</i>
 </p>
 
 <!-- IMAGE 3: SENSOR SYSTEM -->
 <p align="center">
-  <img src="Images/sensors.jpeg" width="800"><br/>
+  <img src="Images/Sensors.jpeg" width="800"><br/>
   <i>Sensors used for environmental monitoring and irrigation control.</i>
 </p>
 
