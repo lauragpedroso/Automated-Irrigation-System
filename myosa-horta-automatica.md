@@ -1,5 +1,5 @@
 ---
-publishDate: 2026-08-19T00:00:00Z
+publishDate: 2026-08-24 T00:00:00Z
 title: Automated Irrigation System for a Community Garden using Myosa Systems
 excerpt: An automated irrigation system for a community garden at Escola do Bairro in Sarandi, Paraná, using the Myosa platform to combine environmental sensing, automation, and STEM education.
 image: cover.jpeg
@@ -53,7 +53,7 @@ The following images show the development, assembly, and operation of the automa
 
 <!-- IMAGE 2: HARDWARE -->
 <p align="center">
-  <img src="Images/system-hardware.jpeg" width="800"><br/>
+  <img src="Images/system-acionamento.jpeg" width="800"><br/>
   <i>Hardware components and electronic system used in the project.</i>
 </p>
 
