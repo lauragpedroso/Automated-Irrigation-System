@@ -66,7 +66,7 @@ The following images show the development, assembly, and operation of the automa
 <!-- IMAGE 4: Block Diagram -->
 <p align="center">
   <img src="block diagram.png" width="800"><br/>
-  <i>Sensors used for environmental monitoring and irrigation control.</i>
+  <i>System Block Diagram.</i>
 </p>
 
 <!-- Add additional images here if necessary -->
