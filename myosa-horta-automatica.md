@@ -192,15 +192,15 @@ The specific libraries and installation procedure should be added according to t
 ```
 automated-irrigation/
 ├── libraries/
-│   └── myosa-libraries/
+│   └── arduino-libraries-main/
 ├── sensors-code/
 │   └── sensors-code.ino
 ├── cover.jpeg
-├── system-hardware.jpeg
-├── sensors.jpeg
-├── irrigation-demo.mp4
-├── automated-irrigation.md
-└── LICENSE
+├── System-acionamento.jpeg
+├── Sensors.jpeg
+├── Block-Diagram2.png
+├── demo-myosa.mp4
+└── myosa-horta-automatica.md
 ```
 ## License 
 
