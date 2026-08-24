@@ -65,7 +65,7 @@ The following images show the development, assembly, and operation of the automa
 
 <!-- IMAGE 4: Block Diagram -->
 <p align="center">
-  <img src="images/block diagram.png" width="800"><br/>
+  <img src="images/Block Diagram.png" width="800"><br/>
   <i>System Block Diagram.</i>
 </p>
 
