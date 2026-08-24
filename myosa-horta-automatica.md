@@ -10,7 +10,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="Images/cover.jpeg" width="800"><br/>
+  <img src="cover.jpeg" width="800"><br/>
   <i>Automated irrigation system developed for the community garden at Escola do Bairro.</i>
 </p>
 
@@ -47,25 +47,25 @@ The following images show the development, assembly, and operation of the automa
 
 <!-- IMAGE 1: COVER / COMPLETE SYSTEM -->
 <p align="center">
-  <img src="Images/cover.jpeg" width="800"><br/>
+  <img src="cover.jpeg" width="800"><br/>
   <i>Complete automated irrigation system developed using the Myosa platform.</i>
 </p>
 
 <!-- IMAGE 2: HARDWARE -->
 <p align="center">
-  <img src="Images/System-acionamento.jpeg" width="800"><br/>
+  <img src="System-acionamento.jpeg" width="800"><br/>
   <i>Solenoid Valve Control Systemt.</i>
 </p>
 
 <!-- IMAGE 3: SENSOR SYSTEM -->
 <p align="center">
-  <img src="Images/Sensors.jpeg" width="800"><br/>
+  <img src="Sensors.jpeg" width="800"><br/>
   <i>Sensors used for environmental monitoring and irrigation control.</i>
 </p>
 
 <!-- IMAGE 4: Block Diagram -->
 <p align="center">
-  <img src="Images/Block Diagram2.png" width="800"><br/>
+  <img src="Images/Block-Diagram2.png" width="800"><br/>
   <i>System Block Diagram.</i>
 </p>
 
@@ -75,7 +75,9 @@ The following images show the development, assembly, and operation of the automa
 
 The project demonstration video is provided as a local MP4 file, following the MYOSA submission requirements.
 
-https://github.com/user-attachments/assets/5b8ea8f3-b0c4-4a1d-9f9d-8bfeb1d502ad
+<video controls width="100%">
+  <source src="demo-myosa.mp4" type="video/mp4">
+</video>
 
 ---
 
